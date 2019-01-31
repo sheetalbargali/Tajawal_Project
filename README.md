@@ -1,13 +1,11 @@
-# Tajawal_Project
-Tajawal Code Challenge
+# Tajawal Code Challenge
 
 1. This is the maven project written in java.
  
 2. To execute the tests,
 	From IDE, right click on any test and click on run button.
-	From consloe, just browse to the path where the basic-selenium-project is located 
-
-in your terminal and type mvn clean verify -Pbrowser-chrome. 
+	From consloe, just browse to the path where the basic-selenium-project is located in your terminal and type 
+	mvn clean verify -Pbrowser-chrome. 
 
 3. All required project dependencies exists in the pom.xml. 
 
