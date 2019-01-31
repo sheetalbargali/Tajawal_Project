@@ -4,7 +4,7 @@
  
 2. To execute the tests,</BR>
 	From IDE, right click on any test and click on run button.</BR>
-	From console, browse to the path where the project is located in your terminal and type mvn clean verify -Pbrowser-<browser name>. 
+	From console, browse to the path where the project is located in your terminal and type mvn clean verify -Pbrowser-firefox. 
 
 3. All required project dependencies exists in the pom.xml. 
 
